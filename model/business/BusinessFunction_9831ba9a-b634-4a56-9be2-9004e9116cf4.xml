@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Config Mgt"
-    id="9831ba9a-b634-4a56-9be2-9004e9116cf4"/>
+    id="9831ba9a-b634-4a56-9be2-9004e9116cf4"
+    documentation="Here lives the CI in the CMDB"/>

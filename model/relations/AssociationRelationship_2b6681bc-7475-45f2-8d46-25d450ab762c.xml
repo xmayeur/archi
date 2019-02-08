@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[n::n]"
-    id="2b6681bc-7475-45f2-8d46-25d450ab762c">
+    id="2b6681bc-7475-45f2-8d46-25d450ab762c"
+    documentation="Incidents are related to CIs">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_b5dacbba-9044-4e9a-b7c0-ad477f0426c4.xml#b5dacbba-9044-4e9a-b7c0-ad477f0426c4"/>

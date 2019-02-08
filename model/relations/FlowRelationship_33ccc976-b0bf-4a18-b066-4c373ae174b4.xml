@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Actual CI"
-    id="33ccc976-b0bf-4a18-b066-4c373ae174b4">
+    id="33ccc976-b0bf-4a18-b066-4c373ae174b4"
+    documentation="Discovery feeds the CMDB">
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_d4c3a677-c156-472f-9b9f-46ef20eed26a.xml#d4c3a677-c156-472f-9b9f-46ef20eed26a"/>
