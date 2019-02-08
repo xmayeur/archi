@@ -14,29 +14,41 @@
 ## Config Mgt (Business Function)
 
 **Relationships**
+
 |From|Relationship|To|Name|Description|
 |---|---|---|---|---|
-|Config Mgt|Access Relationship|[CI (Business Object)](#ci-business-object)||
+|Config Mgt|Access Relationship|[CI (Business Object)](#ci-business-object)|||
+
+
 ### CI (Business Object)
 
 **Relationships**
+
 |From|Relationship|To|Name|Description|
 |---|---|---|---|---|
-|CI|Association Relationship|[Incident (Business Object)](#incident-business-object)|[n::n]|
+|CI|Association Relationship|[Incident (Business Object)](#incident-business-object)|[n::n]||
+
+
 ## Incident Mgt (Business Function)
 
 **Relationships**
+
 |From|Relationship|To|Name|Description|
 |---|---|---|---|---|
-|Incident Mgt|Access Relationship|[Incident (Business Object)](#incident-business-object)||
+|Incident Mgt|Access Relationship|[Incident (Business Object)](#incident-business-object)|||
+
+
 ### Incident (Business Object)
 
 ## Service Discovery (Business Function)
 
 **Relationships**
+
 |From|Relationship|To|Name|Description|
 |---|---|---|---|---|
-|Service Discovery|Flow Relationship|[Config Mgt (Business Function)](#config-mgt-business-function)|Actual CI|
-[^1]: Generated: Fri Feb 08 2019 22:34:18 GMT+0100 (CET)
+|Service Discovery|Flow Relationship|[Config Mgt (Business Function)](#config-mgt-business-function)|Actual CI||
 
-[embedView]: archi.png
+
+[^1]: Generated: Fri Feb 08 2019 22:48:40 GMT+0100 (CET)
+
+[embedView]: README.png
