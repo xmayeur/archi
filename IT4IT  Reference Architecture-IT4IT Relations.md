@@ -9,7 +9,7 @@
 
 ## Introduction
 
-![IT4IT Relations][embedView]
+![IT4IT Relations](IT4IT%20%20Reference%20Architecture-IT4IT%20Relations.png)
 
 I will describe all relations here
 
@@ -56,6 +56,4 @@ That's the configuration item
 |Service Discovery|Flow Relationship|[Config Mgt (Business Function)](#config-mgt-business-function)|Actual CI|Discovery feeds the CMDB|
 
 
-[^1]: Generated: Fri Feb 08 2019 23:18:11 GMT+0100 (CET)
-
-[embedView]: IT4IT%20%20Reference%20Architecture-IT4IT%20Relations.png
+[^1]: Generated: Sat Feb 09 2019 22:27:36 GMT+0100 (CET)

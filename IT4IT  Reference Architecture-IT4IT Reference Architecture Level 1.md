@@ -13,7 +13,7 @@
 
 ## Introduction
 
-![IT4IT Reference Architecture Level 1][embedView]
+![IT4IT Reference Architecture Level 1](IT4IT%20%20Reference%20Architecture-IT4IT%20Reference%20Architecture%20Level%201.png)
 
 ## Strategy to Portfolio (Capability)
 
@@ -33,6 +33,4 @@
 
 ### Deploy (Business Function)
 
-[^1]: Generated: Fri Feb 08 2019 23:17:52 GMT+0100 (CET)
-
-[embedView]: IT4IT%20%20Reference%20Architecture-IT4IT%20Reference%20Architecture%20Level%201.png
+[^1]: Generated: Sat Feb 09 2019 22:27:35 GMT+0100 (CET)

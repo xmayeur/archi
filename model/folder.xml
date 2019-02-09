@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT4IT  Reference Architecture"
     id="947712cf-7c38-44f9-b3c5-cc69590feae1"
+    purpose="*some purpose*&#xD;&#xA;&#xD;&#xA;|aaa|bbb|ccc|&#xD;&#xA;|---|---|---|&#xD;&#xA;|A|B|C|&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"
     version="4.0.1"/>
