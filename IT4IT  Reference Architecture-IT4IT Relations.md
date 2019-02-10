@@ -9,10 +9,10 @@
 
 ## Introduction
 
-![IT4IT Relations](IT4IT%20%20Reference%20Architecture-IT4IT%20Relations.png)
-
 I will describe all relations here
 
+
+![IT4IT Relations](IT4IT%20%20Reference%20Architecture-IT4IT%20Relations.png)
 
 ## Config Mgt (Business Function)
 
@@ -53,7 +53,7 @@ The *Incident* object
 
 ## Service Discovery (Business Function)
 
-It is the Service Discovery
+It is the *Service Discovery*
 
 **Relationships**
 
@@ -63,4 +63,4 @@ It is the Service Discovery
 
 
 
-*Generated: Sun Feb 10 2019 13:17:02 GMT+0100 (CET)*
+*Generated: Sun Feb 10 2019 14:06:18 GMT+0100 (CET)*
