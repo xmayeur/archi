@@ -16,16 +16,11 @@ I will describe all relations here
 
 ## Config Mgt (Business Function)
 
-**Relationships**
-
-|From|Relationship|To|Name|Description|
-|---|---|---|---|---|
-|Config Mgt|Access Relationship|[CI (Business Object)](#ci-business-object)|||
-
-
 Here lives the CI in the CMDB
 
 ### CI (Business Object)
+
+That's the *configuration item*
 
 **Relationships**
 
@@ -34,9 +29,20 @@ Here lives the CI in the CMDB
 |CI|Association Relationship|[Incident (Business Object)](#incident-business-object)|[n::n]|Incidents are related to CIs|
 
 
-That's the configuration item
+**Relationships**
+
+|From|Relationship|To|Name|Description|
+|---|---|---|---|---|
+|Config Mgt|Access Relationship|[CI (Business Object)](#ci-business-object)|||
+
 
 ## Incident Mgt (Business Function)
+
+How I manage Incident
+
+### Incident (Business Object)
+
+The *Incident* object
 
 **Relationships**
 
@@ -45,9 +51,9 @@ That's the configuration item
 |Incident Mgt|Access Relationship|[Incident (Business Object)](#incident-business-object)|||
 
 
-### Incident (Business Object)
-
 ## Service Discovery (Business Function)
+
+It is the Service Discovery
 
 **Relationships**
 
@@ -56,4 +62,5 @@ That's the configuration item
 |Service Discovery|Flow Relationship|[Config Mgt (Business Function)](#config-mgt-business-function)|Actual CI|Discovery feeds the CMDB|
 
 
-[^1]: Generated: Sat Feb 09 2019 22:27:36 GMT+0100 (CET)
+
+*Generated: Sun Feb 10 2019 13:17:02 GMT+0100 (CET)*

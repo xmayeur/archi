@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CI"
     id="b5dacbba-9044-4e9a-b7c0-ad477f0426c4"
-    documentation="That's the configuration item"/>
+    documentation="That's the *configuration item*"/>
